@@ -1,4 +1,4 @@
-# 📁 MovieHub Project Documentation
+# 📁 BookNest Project Documentation
 
 ⚠️ **IMPORTANT — Project Folder Consultation**
 
